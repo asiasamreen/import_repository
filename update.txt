@@ -1,2 +1,5 @@
 this is second file.
 to update
+
+
+this file has been updated with some new features.these features will be merged to master once completed.
